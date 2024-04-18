@@ -1,8 +1,14 @@
-# React + Vite
+## Project Overview:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **Tech Stack**: Utilizes React, Tailwind CSS, GSAP, Three.js.
+- **Design**: Tailwind CSS for sleek design and ensuring full responsiveness across devices.
+- **Animation**: Provides transition and scroll animations by GSAP.
+- **3D Animation**: Generate 3D animation with Three.js to display realistic product model.
 
-Currently, two official plugins are available:
+### Reference Video [JavaScript Mastery]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Deployment
+  [Go to Rent Properties](https://clone-iphone-xi.vercel.app/).
+
+[//]: #
+[JavaScript Mastery]: <https://www.youtube.com/watch?v=kRQbRAJ4-Fs&ab_channel=JavaScriptMastery>
