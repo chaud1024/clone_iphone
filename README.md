@@ -8,7 +8,7 @@
 ### Reference Video [JavaScript Mastery]
 
 ### Deployment
-  [Go to Rent Properties](https://clone-iphone-xi.vercel.app/).
+  [Go to clone iPhone 15 site](https://clone-iphone-xi.vercel.app/)
 
 [//]: #
 [JavaScript Mastery]: <https://www.youtube.com/watch?v=kRQbRAJ4-Fs&ab_channel=JavaScriptMastery>
